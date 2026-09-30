@@ -1,7 +1,7 @@
 ---
 version: alpha
-name: "[Nombre del emprendimiento]"
-description: "[Design system de ... en una línea]"
+name: "[Studio Milano]"
+description: "[Este es un emprendimiento dedicado al diseño y cuidado de uñas acrílicas, ofreciendo servicios personalizados de manicure, extensiones, diseños y decoración de uñas.]"
 # Guía: evaluacion/guias/fase-2-specs/06-spec-de-diseno.md
 # Reemplaza TODOS los valores de ejemplo por los de tu paleta y tipografía
 # (docs/08-color-tipografia.md). Los HEX van siempre entre comillas.
@@ -103,7 +103,7 @@ components:
     textColor: "{colors.on-surface-variant}"
 ---
 
-# [Nombre del emprendimiento] — Design system
+# [Studio Milano] — Design system
 
 ## Overview
 
